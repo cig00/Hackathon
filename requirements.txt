@@ -10,7 +10,7 @@ scikit-learn==1.4.1.post1
 mlxtend==0.23.1
 
 # ── Deep Learning ──────────────────────────────────────────────
-torch==2.2.2
+torch==2.2.2+cpu
 
 # ── Utilities ──────────────────────────────────────────────────
 python-multipart==0.0.9
